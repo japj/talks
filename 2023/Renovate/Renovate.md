@@ -1,4 +1,4 @@
-This is talk give  on 2023-03-10 at [WebCampVenlo](https://www.webcampvenlo.nl).
+This is talk given on 2023-03-10 at [WebCampVenlo](https://www.webcampvenlo.nl).
 
 # Renovate: a universal dependency update tool that fits into your workflow
 
