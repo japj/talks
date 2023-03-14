@@ -6,9 +6,9 @@ Whatever programming languages you are using, whatever platform you are working 
 
 In this session we will help you get a better understanding of what Renovate can do, what we learned from using it and hopefully give you a picture on how to apply it in your projects so you don't need to manually update packages anymore.
 
-Joey Bouten
+[Joey Bouten](https://www.linkedin.com/in/joey-bouten-b715bb156) [@joey-beech-it](https://github.com/joey-beech-it)
 
-Jeroen Janssen
+[Jeroen Janssen](https://www.linkedin.com/in/japjanssen) [@japj](https://github.com/japj)
 
 ## Renovate Resources
 
