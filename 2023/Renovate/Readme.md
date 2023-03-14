@@ -10,6 +10,10 @@ In this session we will help you get a better understanding of what Renovate can
 
 [Jeroen Janssen](https://www.linkedin.com/in/japjanssen) [@japj](https://github.com/japj)
 
+## Slides
+
+[Renovate - universal dependency update tool.pdf](./Renovate_-_universal_dependency_update_tool.pdf)
+
 ## Renovate Resources
 
 - https://github.com/renovatebot/renovate
